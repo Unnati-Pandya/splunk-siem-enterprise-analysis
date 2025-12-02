@@ -63,8 +63,8 @@ This enables analysts to:
 
 
   ## Project Documentation
-  **Project Presentation:**
-[Splunk SIEM Enterprise Analysis — Unnati Pandya](docs/SIEM-Splunk-Enterprise-Analysis-UnnatiPandya.pptx)
+[Splunk SIEM Enterprise Analysis — Unnati Pandya](Splunk-SIEM-Enterprise-Analysis-UnnatiPandya.pdf)
+
 
   ## Led By
   **Unnati Pandya**
